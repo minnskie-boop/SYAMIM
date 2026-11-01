@@ -1,0 +1,6 @@
+{
+  "name": "Math School Defense: Master Luas DSKP 10.2 (3D Edition)",
+  "description": "Permainan pertahanan menara 3D berasaskan Three.js WebGL berkonsepkan warga sekolah vs zombi dengan kuiz interaktif formula luas DSKP 10.2 Tingkatan 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
